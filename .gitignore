@@ -1,0 +1,4 @@
+.log*
+.env
+.prettierrc
+node_modules
